@@ -6,7 +6,7 @@ data has been acquired from the Multi-Resolution Land Characteristics (MRLC) Con
 
 data is stored in the 'data' folder: biosquad/tree/main/data.
 
-the subfolders 'gpp' and 'lcc' contain the data acquired from the NOAA and MRLC, respectively.
+the subfolders 'gpp' and 'lccluc' contain the data acquired from the NOAA and MRLC, respectively.
 
 some figures are stored in the 'figures' folder: biosquad/tree/main/figures
 
