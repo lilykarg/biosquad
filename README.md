@@ -6,7 +6,7 @@ data has been acquired from the Multi-Resolution Land Characteristics (MRLC) Con
 
 data is stored in the 'data' folder: biosquad/tree/main/data.
 
-the subfolders 'gpp' and 'lcc' contain the data acquired from the MRLC and NOAA, respectively.
+the subfolders 'gpp' and 'lcc' contain the data acquired from the NOAA and MRLC, respectively.
 
 some figures are stored in the 'figures' folder: biosquad/tree/main/figures
 
@@ -17,6 +17,7 @@ our project notebook is saved in the main folder as a .ipynb file called *biosqu
 **citations:**
 
 U.S. Geological Survey (USGS), 2024, Annual NLCD Collection 1 Science Products:
-U.S. Geological Survey data release, https://doi.org/10.5066/P94UXNTS </p>
-<p>Dr. Xin Lan, NOAA/GML (gml.noaa.gov/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).
+U.S. Geological Survey data release, https://doi.org/10.5066/P94UXNTS
+
+Dr. Xin Lan, NOAA/GML (gml.noaa.gov/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).
 
